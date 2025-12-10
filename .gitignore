@@ -1,0 +1,109 @@
+# --------------------------
+# Python Bytecode & Caches
+# --------------------------
+__pycache__/
+*.py[cod]
+*$py.class
+
+# --------------------------
+# Virtual Environments
+# --------------------------
+env/
+venv/
+.venv/
+ENV/
+env.bak/
+venv.bak/
+
+# --------------------------
+# Distribution / Packaging
+# --------------------------
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# --------------------------
+# Logs & Debugging
+# --------------------------
+*.log
+*.pot
+*.mo
+
+# --------------------------
+# Environment Variables / Secrets
+# --------------------------
+*.env
+.env.*
+.envrc
+credentials.json
+secrets.json
+
+# --------------------------
+# Jupyter Notebook
+# --------------------------
+.ipynb_checkpoints/
+
+# --------------------------
+# IDE / Editor Files
+# --------------------------
+
+# VS Code
+.vscode/
+.code-workspace
+
+# PyCharm / JetBrains
+.idea/
+*.iml
+
+# Sublime
+*.sublime-project
+*.sublime-workspace
+
+# Other Editors
+*.swp
+*.swo
+
+# --------------------------
+# macOS & Windows System Files
+# --------------------------
+.DS_Store
+.Trashes
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# --------------------------
+# Python Test & Coverage Files
+# --------------------------
+.coverage
+coverage.xml
+.cache/
+pytest_cache/
+htmlcov/
+
+# --------------------------
+# Local Dev Tools
+# --------------------------
+mypy_cache/
+pyre/
+pytype/
+.dmypy.json
+.pyre/
+
+# --------------------------
+# Project Specific
+# --------------------------
+# Ignore week directories if they contain temporary files:
+*/__temp__/
+*/notes/
