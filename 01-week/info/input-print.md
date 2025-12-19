@@ -1,4 +1,4 @@
-# **Using `input()` and `print()` in Python**
+# Using `input()` and `print()` in Python
 
 One of the first things you’ll learn in Python is how to interact with users.
 Python provides two simple and powerful functions for this:
@@ -46,7 +46,7 @@ print(f"You are {age} years old.")
 
 `input()` lets your program receive user input as **text (string)**.
 
-### ✔ Basic Usage
+### ✔ Basic Input Usage
 
 ```py
 name = input("Enter your name: ")
@@ -111,4 +111,3 @@ print("Sum:", num1 + num2)
 You will use `input()` and `print()` in almost every beginner-level program, and they remain useful even in advanced scripting and automation tasks.
 
 ---
-

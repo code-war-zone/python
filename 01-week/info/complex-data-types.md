@@ -1,4 +1,4 @@
-# **Complex Data Types in Python**
+# Complex Data Types in Python
 
 In addition to primitive data types, Python provides **complex (or composite) data types** that allow you to store and
 organize multiple values together. These data structures are essential for handling real-world data and building more advanced programs.
@@ -133,5 +133,3 @@ unique_ids = {101, 102, 103, 103}
 These complex data types form the backbone of Python programming and will be used throughout the course.
 
 ---
-
-

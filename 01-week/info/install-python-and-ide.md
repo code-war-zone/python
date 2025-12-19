@@ -1,4 +1,4 @@
-# **Installing Python and IDE Setup**
+# Installing Python and IDE Setup
 
 This guide will help you install Python on your system and set up a development environment using Visual Studio Code (VS Code).
 By the end, you’ll be ready to write and run your first Python programs.
@@ -25,7 +25,7 @@ During installation:
 
 Make sure to check:
 
-```
+```txt
 ☑ Add Python to PATH
 ```
 
@@ -62,7 +62,7 @@ python3 --version
 
 You should see something like:
 
-```
+```bash
 Python 3.x.x
 ```
 
@@ -84,33 +84,33 @@ Install it like any other application.
 
 Open VS Code → Go to **Extensions** (left sidebar) → Search for:
 
-```
+```txt
 Python (Microsoft)
 ```
 
 Install it.
 This extension provides:
 
-* Code highlighting
-* Auto-complete (IntelliSense)
-* Code formatting
-* Debugging support
-* Virtual environment integration
+- Code highlighting
+- Auto-complete (IntelliSense)
+- Code formatting
+- Debugging support
+- Virtual environment integration
 
 ---
 
 ## 🧪 **4. Creating Your First Python File**
 
-1. Open a folder in VS Code
-2. Create a new file named:
+- Open a folder in VS Code
+- Create a new file named:
 
-```
+```bash
 hello.py
 ```
 
-3. Write:
+- Write:
 
-```python
+```py
 print("Hello, Python!")
 ```
 
@@ -124,7 +124,7 @@ You can run your script in two ways:
 
 Open the VS Code terminal:
 
-```
+```txt
 View → Terminal
 ```
 
@@ -162,4 +162,3 @@ You now have:
 You're ready to start coding!
 
 ---
-

@@ -1,4 +1,4 @@
-# **Type Conversion Basics in Python**
+# Type Conversion Basics in Python
 
 In Python, data often comes in different formats — numbers, text, booleans, user input, etc.
 **Type conversion** allows you to change a value from one data type to another so you can use it correctly in your program.
@@ -22,13 +22,13 @@ age = int(age)
 
 ---
 
-# 🔧 **Built-In Conversion Functions**
+## 🔧 **Built-In Conversion Functions**
 
 Python provides several simple functions for converting data types.
 
 ---
 
-## **1. `int()` – Convert to Integer**
+### **1. `int()` – Convert to Integer**
 
 Converts a value to an integer (whole number).
 
@@ -39,7 +39,7 @@ int(3.99)     # 3
 
 ---
 
-## **2. `float()` – Convert to Float**
+### **2. `float()` – Convert to Float**
 
 Converts to a decimal number.
 
@@ -50,7 +50,7 @@ float(10)     # 10.0
 
 ---
 
-## **3. `str()` – Convert to String**
+### **3. `str()` – Convert to String**
 
 Converts any value to text.
 
@@ -61,7 +61,7 @@ str(True)     # "True"
 
 ---
 
-## **4. `bool()` – Convert to Boolean**
+### **4. `bool()` – Convert to Boolean**
 
 Converts a value into `True` or `False`.
 
@@ -79,7 +79,7 @@ General rule:
 
 ---
 
-# 📌 **Common Use Case: User Input**
+## 📌 **Common Use Case: User Input**
 
 Since `input()` always returns a **string**, conversion is often required:
 
@@ -93,7 +93,7 @@ print("Total:", total)
 
 ---
 
-# 🧪 **Quick Practice**
+## 🧪 **Quick Practice**
 
 Try converting the following:
 
@@ -105,7 +105,7 @@ Try converting the following:
 
 ---
 
-# 🎉 **Summary**
+## 🎉 **Summary**
 
 | Conversion | Function  | Example         |
 | ---------- | --------- | --------------- |

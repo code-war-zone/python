@@ -1,4 +1,4 @@
-# **Primitive Data Types in Python**
+# Primitive Data Types in Python
 
 Python provides several basic (primitive) data types that you’ll use in almost every program. These types represent
 simple values such as numbers, text, and logical states.
@@ -65,8 +65,8 @@ Strings can contain letters, numbers, and symbols.
 
 A **boolean** represents a logical value:
 
-* `True`
-* `False`
+- `True`
+- `False`
 
 Examples:
 
@@ -94,8 +94,8 @@ print(name, age, height, is_active)
 
 ## 📌 Notes
 
-* Python is dynamically typed → you don’t need to declare types manually
-* You can check a variable’s type using:
+- Python is dynamically typed → you don’t need to declare types manually
+- You can check a variable’s type using:
 
 ```py
 print(type(age))
@@ -116,4 +116,3 @@ These primitive types form the foundation of Python programming.
 You will combine them to create more complex logic and data structures in later weeks.
 
 ---
-

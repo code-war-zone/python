@@ -1,4 +1,4 @@
-# **Running `.py` Scripts vs Interactive REPL**
+# Running `.py` Scripts vs Interactive REPL
 
 Python code can be executed in two main ways:
 
@@ -39,8 +39,8 @@ python3
 
 You should see something like:
 
-```
->>> 
+```bash
+>>>
 ```
 
 This is the Python prompt.
@@ -86,7 +86,7 @@ This mode is ideal for:
 
 Create a file named:
 
-```
+```txt
 hello.py
 ```
 
@@ -114,7 +114,7 @@ python3 hello.py
 
 Output:
 
-```
+```bash
 Hello from a Python script!
 ```
 
@@ -133,13 +133,13 @@ Hello from a Python script!
 
 ## 🎯 **When to Use Which?**
 
-### Use **REPL** when:
+### Use **REPL** when
 
 - You're experimenting
 - You want instant feedback
 - You're learning Python basics
 
-### Use **`.py` scripts** when:
+### Use **`.py` scripts** when
 
 - Writing projects
 - Saving work
@@ -152,8 +152,8 @@ Hello from a Python script!
 
 Python gives you two powerful ways to run code:
 
-* **Interactive REPL** → fast, simple, and great for testing
-* **Script mode** → structured, reusable, and used in real development
+- **Interactive REPL** → fast, simple, and great for testing
+- **Script mode** → structured, reusable, and used in real development
 
 Both are essential tools in your Python journey.
 

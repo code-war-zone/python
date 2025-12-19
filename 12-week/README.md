@@ -1,8 +1,8 @@
-#  **Week 12 – Final Projects**
+# Week 12 – Final Projects
 
 Choose **one or more** to complete the course.
 
-### 💡 **Project Ideas**
+## 💡 **Project Ideas**
 
 1. **Full To-Do Web App using FastAPI + SQLite/PostgreSQL**
 2. **Book/Movie Search App using Public APIs**
@@ -11,9 +11,9 @@ Choose **one or more** to complete the course.
 5. **Mini Machine Learning Pipeline using scikit-learn**
 6. **Automation Toolkit (files, logs, backups)**
 
-### 🎯 Expectations
+## 🎯 Expectations
 
-* Clean folder structure
-* Comments & documentation
-* Tests for critical features
-* README explaining how to run
+- Clean folder structure
+- Comments & documentation
+- Tests for critical features
+- README explaining how to run

@@ -1,4 +1,4 @@
-# **Week 1 – Introduction to Python & Programming Basics**
+# Week 1 – Introduction to Python & Programming Basics
 
 Welcome to Week 1 of the Python course!
 This week focuses on building your foundation in programming and preparing your development environment.
@@ -41,4 +41,3 @@ By the end of this week, you will be able to:
 - Create a script that formats a user’s name into a welcome message
 
 ---
-

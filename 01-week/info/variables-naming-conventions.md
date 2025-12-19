@@ -1,4 +1,4 @@
-# **Variables & Naming Conventions**
+# Variables & Naming Conventions
 
 Variables are one of the core building blocks of programming.
 They allow you to store information and use it throughout your program.
@@ -18,8 +18,7 @@ age = 25
 
 Here:
 
--`name` → stores the string `"Sam"`
--`age` → stores the integer `25`
+-`name` → stores the string `"Sam"` -`age` → stores the integer `25`
 
 You can use these values later in your code.
 
@@ -39,7 +38,7 @@ Python has a few strict naming rules:
 4. Can only use **letters, numbers, and underscores**
 5. Are **case-sensitive**
 
-   * `age`, `Age`, and `AGE` are all different
+   - `age`, `Age`, and `AGE` are all different
 
 Valid:
 
@@ -149,12 +148,11 @@ favorite_number = 7
 
 ## 🎉 Summary
 
-* Variables store values you want to use later
-* Follow Python’s naming rules and conventions
-* Use descriptive, readable names
-* Prefer snake_case for all variables
+- Variables store values you want to use later
+- Follow Python’s naming rules and conventions
+- Use descriptive, readable names
+- Prefer snake_case for all variables
 
 Clear variable names make your programs easier to understand and maintain.
 
 ---
-

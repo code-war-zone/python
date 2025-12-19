@@ -1,20 +1,20 @@
-# **Week 8 – Error Handling, Debugging & Logging**
+# Week 8 – Error Handling, Debugging & Logging
 
-### 🎯 Learning Goals
+## 🎯 Learning Goals
 
-* Handle errors gracefully
-* Debug effectively
+- Handle errors gracefully
+- Debug effectively
 
-### 📌 Topics
+## 📌 Topics
 
-* Exceptions: `try`, `except`, `finally`
-* Raising custom exceptions
-* Debugging techniques
-* Logging with Python `logging` module
-* Writing maintainable code
+- Exceptions: `try`, `except`, `finally`
+- Raising custom exceptions
+- Debugging techniques
+- Logging with Python `logging` module
+- Writing maintainable code
 
-### 🧪 Exercises
+## 🧪 Exercises
 
-* Create a robust calculator that handles all errors.
-* Write logs to a file for your scripts.
-* Build custom exceptions for user input validation.
+- Create a robust calculator that handles all errors.
+- Write logs to a file for your scripts.
+- Build custom exceptions for user input validation.

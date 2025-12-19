@@ -1,4 +1,4 @@
-# **What is Python? Why Python?**
+# What is Python? Why Python?
 
 Python is a **high-level, general-purpose programming language** known for its simplicity, readability, and flexibility.
 It allows developers to write clean and clear code, making it one of the most beginner-friendly languages in the world.
@@ -127,11 +127,11 @@ Python is versatile. Common fields include:
 
 Python is:
 
-* beginner-friendly
-* readable and clean
-* powerful and flexible
-* supported by a huge ecosystem
-* used everywhere in tech
+- beginner-friendly
+- readable and clean
+- powerful and flexible
+- supported by a huge ecosystem
+- used everywhere in tech
 
 This makes it one of the **best languages to learn first** and one of the **most valuable skills** for modern developers.
 

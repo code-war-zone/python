@@ -1,4 +1,4 @@
-# **Writing Comments & Improving Code Readability**
+# Writing Comments & Improving Code Readability
 
 Readable code is easier to understand, maintain, and debug.
 Writing clear comments and following good formatting practices helps both you and anyone else who works with your code.
@@ -12,9 +12,9 @@ They are ignored by Python during execution, but they improve clarity for humans
 
 Use comments to:
 
-* Describe complex logic
-* Explain the purpose of a function or value
-* Make your code easier to revisit later
+- Describe complex logic
+- Explain the purpose of a function or value
+- Make your code easier to revisit later
 
 ---
 
